@@ -2,13 +2,13 @@
 
 ##Nom de l'étudiant | Student Name:
 
-John Smith
+Kendra Mendrisky
 
 ##GitHub Pages:
 
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
-https://jsmarier.github.io/Template-for-the-Website-Project/
+https://github.com/jsmarier-courses/project-1-kmendrisky
 
 ##CSS:
 
