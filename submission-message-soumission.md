@@ -12,9 +12,18 @@ https://github.com/jsmarier-courses/project-1-kmendrisky
 
 ##CSS:
 
-1. I used crimson as a colour for my h1 headings.
-2. J'ai ajouté une classe h2-bleu à certains titres de niveau 2 et ai modifié la feuille CSS pour les rendre bleus.
-3. I changed the background colour from whitesmoke to darkblue.
-4. J'ai mis Arial comme police par défaut pour tous les paragraphes.
-5. I used a font size of 18px in my paragraphs.
-6. Etc.
+1. I changed the page link background colour from red to pink (#be4db9).
+2. I changed the link hover background colour from red to a different shade of pink (rgb(211, 11, 211)).
+3. I changed the background color of my page content to light cyan.
+4. I created a class for my hyperlinks and changed the colour to dark blue (#131359 the same colour used above).
+5. I changed the colour of my main section h1 headings to dark blue (#13135).
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
