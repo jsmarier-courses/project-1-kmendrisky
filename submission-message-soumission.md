@@ -8,7 +8,7 @@ Kendra Mendrisky
 
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
-https://github.com/jsmarier-courses/project-1-kmendrisky
+https://jsmarier-courses.github.io/project-1-kmendrisky/
 
 ##CSS:
 
