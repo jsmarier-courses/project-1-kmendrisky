@@ -2,15 +2,11 @@ html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
     font-family: 'Verdana';
-    color: #666666;
+    color: #353434;
 }
 
 body {
     background-color: whitesmoke;
-}
-
-.title {
-    font-size: 20px;
 }
 
 .top-bar {
@@ -28,6 +24,7 @@ body {
    color: #131359;
    font-weight: bold;
    font-style: italic;
+   text-decoration: underline;
 }
 
 .top-menu {
@@ -57,6 +54,7 @@ body {
 
 .top-menu li a:hover {
     background-color: rgb(211, 11, 211);
+    text-decoration: underline;
 }
 
 .current-page-link {
@@ -80,6 +78,7 @@ body {
 .main-section h1, .main-section h2 {
     color: #131359;
     font-style: italic;
+    text-decoration: underline;
 }
 
 .main-section figure, .main-section img {
@@ -99,7 +98,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color:#3f3c3c;
+    background-color: black;
 }
 
 .footer-content {

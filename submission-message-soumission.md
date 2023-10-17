@@ -22,8 +22,8 @@ https://github.com/jsmarier-courses/project-1-kmendrisky
 8. I changed the font size of the logo class (title at the top of the page) to 20 pixels.
 9. I changed the font style of the logo class to italic.
 10. I changed the font style of my main section h1 headings to italic.
-11.
-12.
-13.
-14.
-15.
+11. I changed the colour of my footer to black.
+12. I underlined the logo class at the top of the page.
+13. I underlined my main section h1 headings.
+14. I changed my body text colour to a darker shade of gray.
+15. I added a declaration to underline the top menu when the mouse hovers over the other pages.
