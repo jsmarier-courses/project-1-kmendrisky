@@ -9,6 +9,10 @@ body {
     background-color: whitesmoke;
 }
 
+.title {
+    font-size: 20px;
+}
+
 .top-bar {
     max-width: 1000px;
     position: relative;
@@ -17,12 +21,13 @@ body {
 }
 
 .logo {
-   font-size: 30px;
+   font-size: 20px;
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
    color: #131359;
    font-weight: bold;
+   font-style: italic;
 }
 
 .top-menu {
@@ -74,6 +79,7 @@ body {
 
 .main-section h1, .main-section h2 {
     color: #131359;
+    font-style: italic;
 }
 
 .main-section figure, .main-section img {
