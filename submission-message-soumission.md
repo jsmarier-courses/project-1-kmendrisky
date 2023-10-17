@@ -17,9 +17,9 @@ https://github.com/jsmarier-courses/project-1-kmendrisky
 3. I changed the background color of my page content to light cyan.
 4. I created a class for my hyperlinks and changed the colour to dark blue (#131359 the same colour used above).
 5. I changed the colour of my main section h1 headings to dark blue (#13135).
-6.
-7.
-8.
+6. I changed the width of my photos to 400 pixels.
+7. I changed the font of all my body content to Verdana.
+8. 
 9.
 10.
 11.
